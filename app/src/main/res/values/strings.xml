@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="text">Reserve your table</string>
+    <string name="fullname">Full name</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="mobilenumber">Mobile Number</string>
+    <string name="qtypeople">Number of People</string>
+    <string name="smokingtable">Request for smoking table</string>
+    <string name="nonsmokingtable">Request for non-smoking table</string>
+    <string name="time_reset">Reset Time</string>
+    <string name="book">BOOK NOW</string>
+</resources>
